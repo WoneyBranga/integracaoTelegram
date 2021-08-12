@@ -42,3 +42,6 @@ RETORNO:
 ```json
 {"ok":true,"result":{"message_id":20,"from":{"id":297496366,"first_name":"NossoPrimeiroBot","username":"NossoPrimeiroUser_bot"},"chat":{"id":69542477,"first_name":"woney","last_name":"branga","type":"private"},"date":1477581586,"photo":[{"file_id":"AgADAQADrKcxGy5vuxGwzBtLLiGtYlOq5y8ABPRg6LNEKLFAqNYBAAEC","file_size":1100,"width":90,"height":25},{"file_id":"AgADAQADrKcxGy5vuxGwzBtLLiGtYlOq5y8ABCg2AAGelLPTE6nWAQABAg","file_size":5723,"width":200,"height":55}]}}
 ```
+
+
+### teste vscode git online
